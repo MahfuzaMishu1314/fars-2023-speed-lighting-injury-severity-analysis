@@ -96,14 +96,14 @@ FARS includes qualifying fatal motor-vehicle crashes. The analysis therefore des
 
 ## Repository contents
 
-- `FARS_2023_Traffic_Safety_Research.ipynb` — analysis notebook.
+- The analysis notebook is maintained separately and is not currently included in this repository.
 - `outputs/figures/` — figures used in this README.
 - `outputs/tables/` — descriptive, regression, and model-comparison tables.
 - `LICENSE` — repository license.
 
 ## Reproducibility
 
-The notebook documents the data processing and analysis workflow. Reproduction requires the relevant 2023 FARS files from NHTSA and the Python packages used in the notebook. Raw source data are not redistributed here.
+Reproduction requires the analysis notebook, the relevant 2023 FARS files from NHTSA, and the Python packages used for data processing and modeling. The notebook is not currently included in this repository, and raw source data are not redistributed here.
 
 ## Author
 
