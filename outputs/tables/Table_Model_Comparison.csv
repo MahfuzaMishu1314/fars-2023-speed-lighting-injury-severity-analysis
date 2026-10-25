@@ -1,0 +1,4 @@
+Model,N,AIC,BIC,Pseudo_R2,Log_Likelihood
+Main effects,75806,98342.95,98426.07,0.0643,-49162.48
+Interaction,75806,98308.25,98437.56,0.0647,-49140.13
+Nonlinear age sensitivity,75806,98263.59,98402.13,0.0651,-49116.79
