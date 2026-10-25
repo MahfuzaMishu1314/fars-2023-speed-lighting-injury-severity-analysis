@@ -1,0 +1,7 @@
+Lighting condition,Adjusted odds ratio,95% CI lower,95% CI upper,p value
+Dark - Lighted,5.095,4.600,5.644,<0.001
+Dark - Not Lighted,4.228,3.796,4.709,<0.001
+Dark - Unknown Lighting,7.032,4.236,11.675,<0.001
+Dawn,2.902,2.105,4.002,<0.001
+Daylight,3.876,3.589,4.187,<0.001
+Dusk,5.585,4.060,7.682,<0.001
