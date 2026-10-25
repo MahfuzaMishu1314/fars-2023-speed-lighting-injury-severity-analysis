@@ -1,0 +1,13 @@
+Lighting condition,Speed status,Total occupants,Non-severe,Non-severe (%),Severe or fatal,Severe or fatal (%)
+Dark - Lighted,Not speed-related,11604,7400,63.77,4204,36.23
+Dark - Lighted,Speed-related,3649,1034,28.34,2615,71.66
+Dark - Not Lighted,Not speed-related,14620,8015,54.82,6605,45.18
+Dark - Not Lighted,Speed-related,4164,1019,24.47,3145,75.53
+Dark - Unknown Lighting,Not speed-related,506,317,62.65,189,37.35
+Dark - Unknown Lighting,Speed-related,166,36,21.69,130,78.31
+Dawn,Not speed-related,1027,509,49.56,518,50.44
+Dawn,Speed-related,297,82,27.61,215,72.39
+Daylight,Not speed-related,31228,16395,52.50,14833,47.50
+Daylight,Speed-related,6466,1608,24.87,4858,75.13
+Dusk,Not speed-related,1669,946,56.68,723,43.32
+Dusk,Speed-related,410,84,20.49,326,79.51
